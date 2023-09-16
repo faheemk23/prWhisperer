@@ -1,5 +1,7 @@
 import OpenAI from "openai";
 
+// when I get openAI eky
+
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_KEY,
 });
