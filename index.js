@@ -31,7 +31,13 @@ module.exports = (app) => {
 
     const comments = await getAllIssueComments(context);
 
-    if (comments.slice(-1).includes("/execute")) {
+    const toExecute = comments
+      .slice(-1)
+      .some((lastComment) =>
+        lastComment.trim().toLowerCase().includes("/execute")
+      );
+
+    if (toExecute) {
       createComment(
         context,
         "Hey, thanks for using prWhisperer. Here's the output of your javascript files (ending with .js)"
