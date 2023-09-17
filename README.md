@@ -13,11 +13,18 @@
          
   ```Include "/execute" in any one of your commit messages.```
   
+
+https://github.com/faheemk23/prWhisperer/assets/121616994/b0f93148-859a-4a9b-b81c-db33b5e851b1
+
+
 - While commenting on pull requests
   
   ```In the pull request comment "/execute"```
 
-add video
+
+https://github.com/faheemk23/prWhisperer/assets/121616994/3d21855e-98f1-4c39-9663-8940586b7183
+
+
 
 ## Setup
 
