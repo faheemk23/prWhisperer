@@ -17,8 +17,7 @@ https://github.com/faheemk23/prWhisperer/assets/121616994/dd5d8b83-4c7c-4e53-8b8
          
   ```Include "/execute" in any one of your commit messages.```
   
-
-https://github.com/faheemk23/prWhisperer/assets/121616994/b0f93148-859a-4a9b-b81c-db33b5e851b1
+https://github.com/faheemk23/prWhisperer/assets/121616994/fb566d00-a0e1-453d-860a-72c8ba6b7145
 
 
 - While commenting on pull requests
