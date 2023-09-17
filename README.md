@@ -1,11 +1,15 @@
 # pr-whisperer
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that A Github App that gives the output of the code to users upon creating pull requests.
+> A GitHub App built with [Probot](https://github.com/probot/probot) that gives the output of the code to users upon creating pull requests.
 
 ## How to install
 
 - Go to [Github App Link](https://GitHub.com/apps/pr-whisperer)
 - Click on install and select the repositories that you want to use the app in.
+
+
+https://github.com/faheemk23/prWhisperer/assets/121616994/dd5d8b83-4c7c-4e53-8b84-f2c94ae60ed7
+
 
 ## How to use
 
