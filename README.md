@@ -2,6 +2,23 @@
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that A Github App that gives the output of the code to users upon creating pull requests.
 
+## How to install
+
+- Go to [Github App Link](https://GitHub.com/apps/pr-whisperer)
+- Click on install and select the repositories that you want to use the app in.
+
+## How to use
+
+- While creating pull requests
+         
+  ```Include "/execute" in any one of your commit messages.```
+  
+- While commenting on pull requests
+  
+  ```In the pull request comment "/execute"```
+
+add video
+
 ## Setup
 
 ```sh
