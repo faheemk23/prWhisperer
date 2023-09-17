@@ -8,6 +8,8 @@
 - Click on install and select the repositories that you want to use the app in.
 
 
+## Demo video
+
 https://github.com/faheemk23/prWhisperer/assets/121616994/dd5d8b83-4c7c-4e53-8b84-f2c94ae60ed7
 
 
